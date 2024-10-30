@@ -55,7 +55,10 @@ This project is a simple email summarizer that uses NLP (Natural Language Proces
 
 ## Sample Result
 
-![Summarizer](file:///C:/Users/ASUS/OneDrive/Pictures/Screenshots/Screenshot%202024-10-30%20210201.png) 
+![Email Summarizer Button](https://github.com/user-attachments/assets/eef1b5ba-66f2-42d1-a0ac-8a1d2586d14b)
+
+![Summarizer Result](https://github.com/user-attachments/assets/4bf384e9-91b3-448f-a70d-f0370e33a16b)
+
 
 
 ## Customization
