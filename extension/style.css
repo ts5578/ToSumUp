@@ -1,0 +1,56 @@
+body {
+    font-family: Garamond, serif;
+    margin: 0;
+    padding: 10px;
+    background-color: #f8f8f8; /* Light background for contrast */
+}
+
+.popup-container {
+    background-color: #8B0000; /* Dark red background */
+    color: white; /* White text for contrast */
+    padding: 20px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 4px; /* Rounded corners */
+    resize: none; /* Disable resizing */
+}
+
+textarea:focus {
+    outline: none; /* Remove outline on focus */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Shadow on focus */
+}
+
+button {
+    background-color: #ffffff; /* White button */
+    color: #8B0000; /* Dark red text */
+    border: none;
+    border-radius: 4px; /* Rounded corners */
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px; /* Space above button */
+}
+
+button:hover {
+    background-color: #e6e6e6; /* Light grey on hover */
+}
+
+.summary-result {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #ffffff; /* White background for summary */
+    border-radius: 4px; /* Rounded corners */
+    color: #333; /* Dark text for readability */
+    border: 1px solid #8B0000; /* Border matching the color scheme */
+}
