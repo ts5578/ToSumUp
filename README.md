@@ -2,9 +2,8 @@
 
 This project is a simple email summarizer that uses NLP (Natural Language Processing) techniques to condense lengthy emails into brief summaries. It is implemented as a web application with a user-friendly interface.
 
-<code style="color : Red">Currently does not work with large emails.</code>
 
-$${\color{red}Currently does not work with large emails.}$$
+$${\color{red}Currently\space does\space not\space work\space with\space large\space emails.Working\space on\space it.}$$
 
 
 ## Features
